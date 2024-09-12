@@ -37,7 +37,7 @@
 
 ### Вставка изображений
 
-![Красивая картинка, сгенерированная Playground AI (относительный путь из папки)](Images\worldeater3.jpeg)
+![Красивая картинка, сгенерированная Playground AI (относительный путь из папки)](Images/worldeater3.jpeg)
 
 ![Картинка из интернета](https://avatars.mds.yandex.net/i?id=9c777b1eb99c9bebcb7ff132f061039b_l-4120962-images-thumbs&n=13)
 
